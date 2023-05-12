@@ -6,7 +6,11 @@ Just a coder, etc.
 
 [adfly-api](https://github.com/modbender/adfly-api)  
 [tracker-scraper](https://github.com/modbender/tracker-scraper)  
+[manga-extractor](https://github.com/modbender/manga-extractor)
+
+### Django
 [easy-thumbnails-rest](https://github.com/modbender/easy-thumbnails-rest)  
+[django-cheroot](https://github.com/modbender/django-cheroot)
 
 ## Vue Libraries:
 
