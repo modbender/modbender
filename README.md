@@ -18,4 +18,4 @@ Just a coder, etc.
 
 ## Nuxt Libraries:
 [nuxt-snackbar](https://github.com/modbender/nuxt-snackbar)  
-[nuxt-disqus](https://github.com/modbender/vue3-disqus) - *Coming Soon*  
+[nuxt-disqus](https://github.com/modbender/nuxt-disqus)
