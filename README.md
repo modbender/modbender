@@ -12,10 +12,12 @@ Just a coder, etc.
 [easy-thumbnails-rest](https://github.com/modbender/easy-thumbnails-rest)  
 [django-cheroot](https://github.com/modbender/django-cheroot)
 
-## Vue Libraries:
+## JavaScript Libraries:
+
+### Vue Libraries:
 
 [vue3-disqus](https://github.com/modbender/vue3-disqus)  
 
-## Nuxt Libraries:
+#### Nuxt Libraries:
 [nuxt-snackbar](https://github.com/modbender/nuxt-snackbar)  
 [nuxt-disqus](https://github.com/modbender/nuxt-disqus)
