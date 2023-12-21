@@ -21,3 +21,4 @@ Just a coder, etc.
 #### Nuxt Libraries:
 [nuxt-snackbar](https://github.com/modbender/nuxt-snackbar)  
 [nuxt-disqus](https://github.com/modbender/nuxt-disqus)
+[nuxt-tiptap-editor](https://github.com/modbender/nuxt-tiptap-editor)
