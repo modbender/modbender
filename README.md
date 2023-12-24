@@ -2,6 +2,8 @@
 
 Just a coder, etc.
 
+I'm available for hire on Upwork! Check out my [profile](https://www.upwork.com/freelancers/~0187ce7eb73de4bef0)!
+
 ## Python libraries:
 
 [adfly-api](https://github.com/modbender/adfly-api)  
