@@ -24,3 +24,5 @@ I'm available for hire on Upwork! Check out my [profile](https://www.upwork.com/
 [nuxt-snackbar](https://github.com/modbender/nuxt-snackbar)  
 [nuxt-disqus](https://github.com/modbender/nuxt-disqus)  
 [nuxt-tiptap-editor](https://github.com/modbender/nuxt-tiptap-editor)
+[nuxt-splide](https://github.com/modbender/nuxt-splide)
+[nuxt-keen-slider](https://github.com/modbender/nuxt-keen-slider)
