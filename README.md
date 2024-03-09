@@ -21,6 +21,7 @@ I'm available for hire on Upwork! Check out my [profile](https://www.upwork.com/
 [vue3-disqus](https://github.com/modbender/vue3-disqus)  
 
 ### Nuxt Libraries:
+[nuxt-bootstrap-css](https://github.com/modbender/nuxt-bootstrap-css)  
 [nuxt-snackbar](https://github.com/modbender/nuxt-snackbar)  
 [nuxt-disqus](https://github.com/modbender/nuxt-disqus)  
 [nuxt-tiptap-editor](https://github.com/modbender/nuxt-tiptap-editor)  
