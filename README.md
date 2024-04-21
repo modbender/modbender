@@ -12,7 +12,11 @@
   </a>
 </p>
 
-I'm available for hire on Upwork! Check out my [profile](https://www.upwork.com/freelancers/~0187ce7eb73de4bef0)!
+<p align="center">
+  I'm available for hire on Upwork! Check out my <a href="https://www.upwork.com/freelancers/~0187ce7eb73de4bef0">Profile</a>!
+</p>
+
+
 
 ## Python libraries:
 
