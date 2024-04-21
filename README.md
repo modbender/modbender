@@ -2,7 +2,9 @@
   Hi there 👋 `modbender` here.
 </h1>
 
-Just a coder, etc.
+<p align="center">
+  Just a coder, etc.
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
