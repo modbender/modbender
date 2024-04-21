@@ -4,7 +4,7 @@
 
 Just a coder, etc.
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,md,js,ts,html,css,sass,aws,blender,yarn,pnpm,bootstrap,tailwind,vue,vuetify,nuxtjs,react,materialui,nextjs,vercel,netlify,go,python,godot,unreal,ubuntu,linux,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,md,js,ts,html,css,sass,aws,blender,yarn,pnpm,bootstrap,tailwind,vue,vuetify,nuxtjs,react,materialui,nextjs,vercel,netlify,go,python,godot,unreal,ubuntu,linux,bash,windows)](https://skillicons.dev)
 
 I'm available for hire on Upwork! Check out my [profile](https://www.upwork.com/freelancers/~0187ce7eb73de4bef0)!
 
